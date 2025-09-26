@@ -28,10 +28,3 @@ int main() {
     obj.mySalary();  
     return 0;
 }
-
-OUTPUT:
-Person: XYZ
-Employee ID: 101
-Your salary of this month: 85000
-
-=== Code Execution Successful ===
